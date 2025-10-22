@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+    <PropertyGroup>
+        <GamePath>/home/graze/.local/share/Steam/steamapps/common/TwinGripDEMO/</GamePath>
+        <GameAssemblyPath>$(GamePath)\TwinGripDEMO_Data\Managed</GameAssemblyPath>
+        <MelonAssemblyPath>$(GamePath)/MelonLoader/net6/</MelonAssemblyPath>
+        <PluginsPath>$(GamePath)\Mods</PluginsPath>
+    </PropertyGroup>
+</Project>
