@@ -6,7 +6,7 @@ using UI.Pm;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace TwinColours.Patches;
+namespace TwinColours;
 
 internal abstract class Patches
 {
